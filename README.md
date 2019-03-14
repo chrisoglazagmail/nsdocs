@@ -1,0 +1,2 @@
+# nsdocs
+nswitch documentation
