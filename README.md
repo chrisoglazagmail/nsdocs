@@ -1,2 +1,3 @@
-# nsdocs
-nswitch documentation
+# Headline
+
+> An awesome project.
