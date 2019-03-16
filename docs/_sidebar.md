@@ -1,4 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Accounts](accounts.md)
+* [Accounts](accounts)
+* [Accounts](routing.md)
