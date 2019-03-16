@@ -2,4 +2,4 @@
 
 * [Home](/)
 * [Accounts](accounts)
-* [Accounts](routing.md)
+* [Accounts](routing)
